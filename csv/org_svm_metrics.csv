@@ -1,0 +1,4 @@
+metrics,Training,Testing
+MAE,3.04,3.09
+MSE,13.94,14.42
+RMSE,3.73,3.8
